@@ -1,5 +1,4 @@
 # LunarDEM-SR
-# LunarDEM-SR
 
 Deep learning-based super-resolution of lunar Digital Elevation Models (DEMs), reconstructing **1 m-resolution terrain from 5 m-resolution data** for hazard mapping and autonomous lander navigation.
 
